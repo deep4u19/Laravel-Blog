@@ -1,1 +1,1 @@
-# Laravel-Blog
+Its a very basic laravel blog that includes user authentication. An user can post and can edit as well delete his own post but the permission is forbidden for others users posts. All the visitors can see all the posts posted by registered users and not been able to post until they get thereselves registered.
